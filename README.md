@@ -5,14 +5,6 @@
 Welcome to the **Olympic 2024 Dashboard**—where numbers meet narratives, and data transforms into stories. This dashboard isn't just about tracking statistics; it's about experiencing the Olympics from the perspective of every athlete, every country, and every historic moment. Dive in, and let's explore the heartbeat of the world's biggest sporting event together.
 
 ---
-## 🎥 Watch the Dashboard in Action
-
-See the **Olympic 2024 Dashboard** come to life in this walkthrough video. Get a visual tour of the interactive features and insights available in the dashboard:
-
-[![Watch the Dashboard Video](https://img.shields.io/badge/Watch%20Video-%E2%86%92-blue)](https://github.com/bansirchovatiya/Olympic2024/blob/main/Dashboard_Video.mp4)
-
-
-
 
 ## 📜 Our Journey Begins: Home
 
