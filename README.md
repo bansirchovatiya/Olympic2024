@@ -15,7 +15,7 @@ Imagine stepping into an Olympic stadium. The energy is electric, the crowd is r
 - **Creator's Signature**: Crafted by Bansir Chovatiya, this dashboard is a labor of love, bringing the excitement of the Olympics to your screen.
 - **Navigation Menu**: Your map to the Olympic data universe. Navigate seamlessly to Overview, Athletes, Country, and Historic pages.
 
-![Home Page](https://github.com/bansirchovatiya/Olympic2024/blob/main/Home.png)
+![Home Page](https://github.com/bansirchovatiya/Olympic2024/blob/main/Dashboard_Images/Home.png)
 
 ---
 
@@ -42,7 +42,7 @@ Before diving into the details, let’s take a step back and look at the big pic
   - **Shape Map**: A global view of medal-winning countries, showing where Olympic dreams come true.
   - **Country Slicer**: Want to focus on a specific nation? Use the slicer to zero in on any country’s performance.
 
-![Overview Page](https://github.com/bansirchovatiya/Olympic2024/blob/main/Overview.png)
+![Overview Page](https://github.com/bansirchovatiya/Olympic2024/blob/main/Dashboard_Images/Overview.png)
 
 ---
 
@@ -56,7 +56,7 @@ Every athlete has a story—of dedication, perseverance, and triumph. The **Athl
   - By Country and Medal Type: See how different countries excel in various sports.
 - **Donut Charts**: Visualize the distribution of Gold, Silver, and Bronze medals by gender. A colorful display of achievement and equality.
 
-![Athletes Page](https://github.com/bansirchovatiya/Olympic2024/blob/main/Athletes.png)
+![Athletes Page](https://github.com/bansirchovatiya/Olympic2024/blob/main/Dashboard_Images/Athletes.png)
 
 ---
 
@@ -67,7 +67,7 @@ The Olympics bring together people from all corners of the globe. The **Country*
 - **World Shape Map**: A stunning visual of the world, highlighting each participating country. This isn’t just a map; it’s a tapestry of cultures, all competing in the spirit of friendly competition.
 - **Country Slicer**: Curious about how your home country is doing? Use the slicer to explore detailed stats and find out.
 
-![Country Page](https://github.com/bansirchovatiya/Olympic2024/blob/main/Country.png)
+![Country Page](https://github.com/bansirchovatiya/Olympic2024/blob/main/Dashboard_Images/Country.png)
 
 ---
 
@@ -78,7 +78,7 @@ The Olympics have a rich history of unforgettable moments. The **Historic** page
 - **Stacked Column Chart**: Gold, Silver, and Bronze medals by year. See how the competition has evolved over time and how different eras brought different champions to the fore.
 - **Country Slicer**: Focus on the historical achievements of specific nations and discover trends and legends that have shaped the Olympics.
 
-![Historic Page](https://github.com/bansirchovatiya/Olympic2024/blob/main/Historic.png)
+![Historic Page](https://github.com/bansirchovatiya/Olympic2024/blob/main/Dashboard_Images/Historic.png)
 
 ---
 
